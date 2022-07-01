@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/connect_"
+        android:icon="@drawable/disconnect"
+        android:title="Connect"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/sounds_"
+        android:icon="@drawable/ic_baseline_volume_up_24"
+        android:title="Sounds off"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/about_"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="About" />
+    <item
+        android:id="@+id/log_out"
+        android:title="Log out" />
+</menu>

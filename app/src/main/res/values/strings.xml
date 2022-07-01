@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Online Tic Tac Toe 2</string>
+
+    <string name="win_string">!…Congratulations…!</string>
+    <string name="lose_string">!…Keep trying…!</string>
+    <string name="play_again">Play again</string>
+    <string name="draw_match">!…Draw…!</string>
+    <string name="about_">About</string>
+    <string name="about_app">Hi, I\'m Matrix.\n\nThis app \'Online Tic Tac Toe\' enables you to play with your friends even they are not in the context.\n\nTo connect with your friends, you need to press the PLUG symbol on the toolbar, it will open a dialog to enter the username of the second player, and click the CONNECT button\n\nIn this game, you need to match three boxes with same disk. You will get an extra turn for each match.\n\nExtra turn is indicated at the bottom of the game board.\n\nFor each matching line you are rewarded with 5 points.\n\nYou can\'t restart the game once you started.\nIf you want to restart the game, you need to disconnect and re-connect again with the person\'s username.\n\nThe final result is calculated after the completion of game.\n\n\nSerial no: 38\nDate of creation: 4 June 2022\nContact us: matrixinventions@gmail.com</string>
+</resources>

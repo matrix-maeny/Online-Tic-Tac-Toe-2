@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="hint_color">#686868</color>
+    <color name="sign_up_btn_start_color">#5E4DBA</color>
+    <color name="sign_up_btn_end_color">#974EC2</color>
+    <color name="sign_up_bg_start">#5778A3</color>
+    <color name="sign_up_bg_end">#283245</color>
+    <color name="connect_btn_bg">#69AB3D</color>
+    <color name="game_line_bg">#6D6571</color>
+
+
+    <color name="win_color">#69AB3D</color>
+    <color name="lose_color">#CD7672</color>
+
+    <color name="toolbar_color">#2A2A33</color>
+    <color name="status_bar_color">#0A0A0A</color>
+    <color name="main_color">#244D61</color>
+    <color name="player_1_bg">#54A51E</color>
+    <color name="player_2_bg">#EE5873</color>
+    <color name="player_one_disk_color">#3C9800</color>
+    <color name="player_two_disk_color">#BA1836</color>
+    <color name="player_one_matched_color">#7624A3</color>
+    <color name="player_two_matched_color">#242347</color>
+</resources>
